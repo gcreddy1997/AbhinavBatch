@@ -1,0 +1,25 @@
+SALES INVOICE
+
+Invoice Date   10/06/2020
+Date Due       01/07/2020
+Invoice no     SIN016526 
+Account code   RPE004    
+
+Invoice to:-
+
+Peter Monk Limited C/o B H Heritage Hangar Ltd Hangar 204 Biggin Hill Airport Biggin Hill, Kent TN16 3BN
+
+Main Rd, Biggin Hill Bromley, TN16 3BH Tel: +44 (0)1959 578500 accounts@bigginhillairport.com
+
+Description                             Period Dates          Amount      QTY   Total Amount   VAT amount   VAT  
+Rent - Q2 Property: Building 204, 205   01/07/20 - 30/09/20   12,250.00   1     12,250.00      2,450.00     codeS
+
+Goods VAT Bank transfers should be in GBP to BARCLAYS BANK PLC, Biggin Hill Airport Ltd Standard S 12,250.00 2,450.00 Sort Code: 20-14-58 Account No.: 83830993 Exempt E 0.00 0.00 SWIFT/BIC: BARCGB22, IBAN: GB82 BARC 2014 5883 8309 93 Zero Z 0.00 0.00 The company reserves the right to charge interest on late payments Rate 1 1 0.00 0.00 For full terms and conditions please see our website www.bigginhillairport.com
+
+Biggin Hill Airport Ltd is a subsidiary of Regional Airports Ltd. VAT No. GB 644 3008 63 Registered Office: Main Passenger & Executive Terminal, Main Road, Biggin Hill Airport, Biggin Hill TN16 3BH. Registered in England and Wales No. 2891822
+
+This Invoice Is Priced In GBP
+
+Net Total £ VAT £ Gross Total £
+
+12,250.00 2,450.00 14,700.00
